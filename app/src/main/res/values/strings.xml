@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Quick Group Chat</string>
+    <string name="required_field_empty">This field cannot be empty</string>
+    <string name="enter_a_message">Enter a message</string>
 </resources>
